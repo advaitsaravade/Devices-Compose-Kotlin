@@ -9,11 +9,12 @@ by Advait Saravade
 1. Download the pre-built APK from [here](https://raw.githubusercontent.com/advaitsaravade/Devices-Compose-Kotlin/main/release/app-release.apk) on your target device.
 2. Tap on the downloaded file from a file manager
 
-### Setup the environment
+### Building from source
+#### Setup the environment
 1. Open Android Studio
 2. Choose the "Open" button in the window and locate the project directory
 
-### Run the project
+#### Run the project
 1. Connect your Android device to your computer or setup a virtual device in AVD manager.
 
 2. In Android Studio, click on the Run menu and then Run 'app'.
