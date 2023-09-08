@@ -6,7 +6,7 @@ by Advait Saravade
 
 ## Installing the Android App
 ### Using the pre-built APK
-1. Download the pre-built APK from [here](https://raw.githubusercontent.com/advaitsaravade/Devices-Compose-Kotlin/main/build.apk) on your target device.
+1. Download the pre-built APK from [here](https://raw.githubusercontent.com/advaitsaravade/Devices-Compose-Kotlin/main/release/app-release.apk) on your target device.
 2. Tap on the downloaded file from a file manager
 
 ### Setup the environment
