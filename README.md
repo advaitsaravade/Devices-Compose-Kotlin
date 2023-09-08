@@ -5,7 +5,7 @@ by Advait Saravade
 1. To run this project you'll need the latest version of Android Studio which can be downloaded from [here](https://developer.android.com/studio)
 
 ## Installing the Android App
-### Using the pre-built APK
+### Using the pre-built APK (easier)
 1. Download the pre-built APK from [here](https://raw.githubusercontent.com/advaitsaravade/Devices-Compose-Kotlin/main/release/app-release.apk) on your target device.
 2. Tap on the downloaded file from a file manager
 
