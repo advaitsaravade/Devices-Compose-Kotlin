@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">iVerify Devices</string>
+    <string name="search_label">Search devices</string>
+    <string name="empty_title">No devices</string>
+    <string name="empty_subtitle">No devices could be found. Use the button below to refresh.</string>
+    <string name="refresh_devices">Refresh devices</string>
+    <string name="no_internet">Please connect to the internet to refresh devices</string>
+    <string name="server_error">There was a server error while refreshing devices</string>
+    <string name="generic_error">There was an error on our end while refreshing devices</string>
+    <string name="next_page">Next</string>
+    <string name="prev_page">Previous</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_time">Unknown time</string>
+    <string name="loading_title">Getting device data</string>
+    <string name="loading_subtitle">Getting latest device data from servers. Please wait this can take a while.</string>
+</resources>
